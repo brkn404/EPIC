@@ -165,3 +165,10 @@ c. Best Practices for Manual Validation
     Monitor Performance & Alerts: Set up alerts for critical integrity or performance issues, such as high index fragmentation or failed integrity checks.
 
 EPIC's integration of relational, object-oriented, and hierarchical database methodologies ensures a robust and flexible system capable of handling complex healthcare data. Automatic real-time checks, transaction management, and system validation maintain data integrity and performance. However, incorporating manual validation through periodic jobs, index maintenance, and system checks is crucial for long-term system health. By adopting a combination of automatic processes and scheduled manual validations, healthcare organizations can maintain a high-performing EPIC system that ensures data integrity, reliability, and scalability.
+
+
+References
+
+    InterSystems IRIS Data Platform Documentation
+    EPIC Systems Corporation Technical Resources
+    Database Systems Principles (ACID properties, normalization techniques)
